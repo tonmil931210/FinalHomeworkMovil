@@ -1,0 +1,17 @@
+# --table-start--
+dataClass=com.augustosalazar.as_android_importantlibraries.User
+tableName=user
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=name
+# --field-end--
+# --field-start--
+fieldName=lastName
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
